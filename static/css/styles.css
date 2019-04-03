@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+.wrapper {
+    text-align: center;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: -5px;
+    vertical-align: top;
+}
